@@ -11,5 +11,11 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to environmental social justice. I hope to find some data about how we can
-implement social justice and environmentalism together.
+
+My research question is if societies that recently experienced major constitutional changes or Coup D'etats lead to a higher of level GDP and development
+My hypothesis is that societies with major constitutional changes and coup d'etats will face GDP declines because of instability in the government and lack of care for existing systems.
+I will measure this by measuring effects on GDP per capita and  before and after major constitutional changes or Coup d'Etats as treatment and the same period of time for countries that do not face such obstacles. 
+
+I will measure GDP and GDP per capita and the effects on such.
+
+If GDP per capita goes up after major constitutional changes or Coup d'Etats this would dissaprove my hypothesis, if it goes down it would prove my hypothesis is correct
