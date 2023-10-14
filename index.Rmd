@@ -12,7 +12,7 @@ output:
 ## Project thoughts
 
 
-My research question is if societies that recently experienced major constitutional changes or Coup D'etats lead to a higher of level GDP and development
+My research question  is if societies that recently experienced major constitutional changes or Coup D'etats lead to a higher of level GDP and development
 My hypothesis is that societies with major constitutional changes and coup d'etats will face GDP declines because of instability in the government and lack of care for existing systems.
 I will measure this by measuring effects on GDP per capita and  before and after major constitutional changes or Coup d'Etats as treatment and the same period of time for countries that do not face such obstacles. 
 
