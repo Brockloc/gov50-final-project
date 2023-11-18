@@ -59,6 +59,7 @@ plot1<- civilwar|>
 
 
 plot1
+
     
 
 ```
