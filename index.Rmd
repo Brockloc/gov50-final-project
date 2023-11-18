@@ -18,7 +18,8 @@ My research question is if greater than 1/3 export revenues from fuels is a caus
 My hypothesis is that oil centralizes power structures and economies and this leads to the emergence of more autocratic governments with limited democratic institutions. The example often used for the petroleum producing curse is the Gulf region where despite high economic activity the region remains undemocratic. I believe that the effect oil has will be regional-agnostic and effect all regions of the world evenly. Meaning that all countries with greater than 1/3 export revenues from fuels will have lower polity scores than those that do not, especially within their own region. 
 
 
-I will be measuring the polity scores for Eastern Europe, Asia, Latin America, Western Democracies/Japan, Sub Saharan Africa, and the Middle East and North Africa for both when greater than 1/3 export revenues come from fuels and when less than 1/3 export revenues come from fuels. Polity scores measure the level of democratization of a state and will be a useful measure on the impact of oil production on governmental structures. s
+I will be measuring the polity scores for Eastern Europe, Asia, Latin America, Western Democracies/Japan, Sub Saharan Africa, and the Middle East and North Africa for both when greater than 1/3 export revenues come from fuels and when less than 1/3 export revenues come from fuels. Polity scores measure the level of democratization of a state and will be a useful measure on the impact of oil production on governmental structures.git status
+
 
 
 If polity scores are higher for high oil producers in the same region than low fuel producers, than my hypothesis is incorrect that fuel production alone lowers democratization. If polity scores are lower for high fuel producers than low fuel producers, then my hypothesis may be correct, but I will still have to run further anlysis for confounding factors such as ongoing civil wars and GDP.
