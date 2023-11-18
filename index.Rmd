@@ -85,5 +85,5 @@ plot2<- civilwar|>
 plot2
 
 ```
-In contrast to what was believed earlier it seems that nations with both high GDP per capita and high oil production seem to have a correlation with lower average polity scores. Therefore, there may be confounding variables that have to do with regional location and how oil effects the polity scores. In the next discussions I plan to delve deeper into how political unrest and Islamic adherence paired with highly oil dependent economies effect the lower polity scores in MENA, SS Africa, and Asia.    
+In contrast to what was believed earlier it seems that nations with both high GDP per capita and high oil production seem to have a correlation with lower average polity scores. Therefore, there may be confounding variables that have to do with regional location and how oil effects the polity scores. In the next discussions I plan to delve deeper into how political unrest and Islamic adherence paired with highly oil dependent economies effect the lower polity scores in MENA, SS Africa, and Asia. Therefore, my initial hypothesis at this point seems inconclusive at best that oil productio alone negatively affects polity score. However, some regions to be affected more by high oil production.  
 
